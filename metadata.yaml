@@ -1,0 +1,99 @@
+_repo: La-vita-Italiana-nel-Rinascimento-Conferenze-tenute-a-Firenze-nel-1892_51706
+_version: 0.0.1
+contributor:
+  contributors:
+  - agent_name: Del Lungo, Isidoro
+    aliases:
+    - Lungo, I. del
+    - Lungo, Isidoro del
+    birthdate: 1841
+    deathdate: 1927
+    gutenberg_agent_id: '49119'
+    url: http://www.gutenberg.org/2009/agents/49119
+  - agent_name: Rajna, Pio
+    birthdate: &id001 1847
+    deathdate: 1930
+    gutenberg_agent_id: '49122'
+    url: http://www.gutenberg.org/2009/agents/49122
+  - agent_name: Panzacchi, Enrico
+    birthdate: 1840
+    deathdate: 1904
+    gutenberg_agent_id: '42056'
+    url: http://www.gutenberg.org/2009/agents/42056
+  - agent_name: Mazzoni, Guido
+    birthdate: 1859
+    deathdate: 1943
+    gutenberg_agent_id: '49120'
+    url: http://www.gutenberg.org/2009/agents/49120
+  - agent_name: Molmenti, Pompeo
+    aliases:
+    - Molmenti, Pompeo Gherardo
+    - Molmenti, P. (Pompeo)
+    birthdate: 1852
+    deathdate: 1928
+    gutenberg_agent_id: '49125'
+    url: http://www.gutenberg.org/2009/agents/49125
+  - agent_name: Biagi, Guido
+    birthdate: 1855
+    deathdate: 1925
+    gutenberg_agent_id: '49118'
+    url: http://www.gutenberg.org/2009/agents/49118
+  - agent_name: Martelli, Diego
+    birthdate: 1839
+    deathdate: &id002 1896
+    gutenberg_agent_id: '49124'
+    url: http://www.gutenberg.org/2009/agents/49124
+  - agent_name: Giacosa, Giuseppe
+    alias: Giacosa, G. (Giuseppe)
+    birthdate: *id001
+    deathdate: 1906
+    gutenberg_agent_id: '5243'
+    url: http://www.gutenberg.org/2009/agents/5243
+    wikipedia: http://en.wikipedia.org/wiki/Giuseppe_Giacosa
+  - agent_name: Nencioni, Enrico
+    birthdate: &id003 1837
+    deathdate: *id002
+    gutenberg_agent_id: '49121'
+    url: http://www.gutenberg.org/2009/agents/49121
+  - agent_name: Masi, Ernesto
+    alias: Masi, E. (Ernesto)
+    birthdate: *id003
+    deathdate: 1908
+    gutenberg_agent_id: '42055'
+    url: http://www.gutenberg.org/2009/agents/42055
+  - agent_name: Lee, Vernon
+    alias: Paget, Violet
+    birthdate: 1856
+    deathdate: 1935
+    gutenberg_agent_id: '2683'
+    url: http://www.gutenberg.org/2009/agents/2683
+    wikipedia: http://en.wikipedia.org/wiki/Vernon_Lee
+  - agent_name: Tocco, Felice
+    birthdate: 1845
+    deathdate: 1911
+    gutenberg_agent_id: '49123'
+    url: http://www.gutenberg.org/2009/agents/49123
+description: ''
+gutenberg_bookshelf: IT Storia
+gutenberg_issued: '2016-04-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51706'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DG'
+- !lcsh 'Renaissance -- Italy'
+- GITenberg
+tableOfContents: Lorenzo il Magnifico, di E. Masi -- La vita privata ne'castelli,
+  di G. Giacosa -- La vita privata dei fiorentini, di G. Biagi -- La donna fiorentina
+  nel rinascimento e negli ultimi tempi della libertà di I. Del Lungo -- Il Poliziano
+  e l'umanesimo, di G. Mazzoni -- La lirica del rinascimento, di E. Nencioni -- L'Orlando
+  innamorato del Boiardo, di P. Rajna -- Il Savonarola e la profezia, di F. Tocco
+  -- La pittura del 400 a Firenze, di D. Martelli -- La scultura del rinascimento,
+  di Vernon Lee -- Leonardo da Vinci, di E. Panzacchi -- L'arte veneziana del rinascimento,
+  di P. Molmenti.
+title: 'La vita Italiana nel Rinascimento: Conferenze tenute a Firenze nel 1892'
+url: http://www.gutenberg.org/ebooks/51706
