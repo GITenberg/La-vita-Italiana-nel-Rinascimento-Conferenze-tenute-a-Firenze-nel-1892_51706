@@ -11,7 +11,7 @@ contributor:
     gutenberg_agent_id: '49119'
     url: http://www.gutenberg.org/2009/agents/49119
   - agent_name: Rajna, Pio
-    birthdate: &id001 1847
+    birthdate: 1847
     deathdate: 1930
     gutenberg_agent_id: '49122'
     url: http://www.gutenberg.org/2009/agents/49122
@@ -40,24 +40,24 @@ contributor:
     url: http://www.gutenberg.org/2009/agents/49118
   - agent_name: Martelli, Diego
     birthdate: 1839
-    deathdate: &id002 1896
+    deathdate: 1896
     gutenberg_agent_id: '49124'
     url: http://www.gutenberg.org/2009/agents/49124
   - agent_name: Giacosa, Giuseppe
     alias: Giacosa, G. (Giuseppe)
-    birthdate: *id001
+    birthdate: 1847
     deathdate: 1906
     gutenberg_agent_id: '5243'
     url: http://www.gutenberg.org/2009/agents/5243
     wikipedia: http://en.wikipedia.org/wiki/Giuseppe_Giacosa
   - agent_name: Nencioni, Enrico
-    birthdate: &id003 1837
-    deathdate: *id002
+    birthdate: 1837
+    deathdate: 1896
     gutenberg_agent_id: '49121'
     url: http://www.gutenberg.org/2009/agents/49121
   - agent_name: Masi, Ernesto
     alias: Masi, E. (Ernesto)
-    birthdate: *id003
+    birthdate: 1837
     deathdate: 1908
     gutenberg_agent_id: '42055'
     url: http://www.gutenberg.org/2009/agents/42055
@@ -73,7 +73,12 @@ contributor:
     deathdate: 1911
     gutenberg_agent_id: '49123'
     url: http://www.gutenberg.org/2009/agents/49123
+covers:
+- cover_type: archival
+  image_path: 51706-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51706#La-vita-Italiana-nel-Rinascimento-Conferenze-tenute-a-Firenze-nel-1892
 gutenberg_bookshelf: IT Storia
 gutenberg_issued: '2016-04-09'
 gutenberg_type: Text
